@@ -1,1 +1,22 @@
 This is a first line = Hello!
+This is the secong line
+
+git add -> add newly added files or folders to staging area
+		-> add modified files to stagin area
+
+Everytime you make changes to any of files in LOCAL
+repository : you will need to add it to staging area
+before each commit
+
+git commit -m "message" -> looks at staging area 
+
+git add
+	adds all new or modified files to stagin area
+
+	git add filename
+	git add .
+
+	-----
+
+	git log 
+	->view commit history. commit 		
